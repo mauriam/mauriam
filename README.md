@@ -5,7 +5,7 @@
 
 
 Soy un amante de la Tecnología de la Información y Comunicación.<br>
-Incie mi carrera a temprana edad, brindando soporte tecnico a pequeños cibercafé y oficinas de mi localidad<br>
+Ini cie mi carrera a temprana edad, brindando soporte tecnico a pequeños cibercafé y oficinas de mi localidad<br>
 
 
 Mi primer contacto con la programación fue en la universidad donde utilizamos los lengujes: <br>
